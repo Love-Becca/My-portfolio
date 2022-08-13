@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif" width="15%""/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gf](https://icons8.com/illustrations/author/TQQ1qAnr9rn5" alt="coding gif" width="15%""/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/folake-sowonoye-06857719a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
