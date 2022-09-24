@@ -11,10 +11,9 @@
    <h2>Hi there 👋 I am Folake Sowonoye</h1>
   <div align="left">
     <p>🌱 A Front-end Developer <br>
-    🌱 Currently Working on some React Project<br>
-    🔭 I am about to end my internship in an organization<br>
+    🌱 Currently undergoing ALX Software Engineer Programme<br>
     👯 Looking forward to contributing and collaborting to projects<br>
-    🤔 I’m in search of opportunities for remote and onsite Jobs as a Junior Developer <br>
+    🤔 I’m in search of opportunities for remote and onsite Jobs as a Frontend Developer <br>
     📫 Contact me via @: follycube2020@gmail.com </p>
   </div>
 </div>
